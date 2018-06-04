@@ -32,13 +32,19 @@ h1 {
 }
 
 .brushprice {
+  font-family: Helvetica;
+  font-weight: bold;
   color: blue;
 }
 
 .frameprice {
+  font-family: Helvetica;
+  font-weight: bold;
   color: blue;
 }
 
 .paintprice {
+  font-family: Helvetica;
+  font-weight: bold;
   color: blue;
 }
